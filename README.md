@@ -1,8 +1,8 @@
 ## A power point on the July 2024 night sky using both Cartes du Ciel and Stellarium.
-![image](????)  
 
-Corona Boralis getting high in the sky at midnight is the location for an expected nova in 2024.  
-![image](https://github.com/ForrestErickson/MaySky2024/assets/5836181/a2a55819-c4db-4407-9251-96675c2c0e73)
+Corona Boralis high in the sky at sunset is the location for an expected nova in 2024.  
+![image](https://github.com/user-attachments/assets/dcf38a1c-045e-4125-a621-baff523a7e35)
+
 
 
 Remember, unless you get out to look at them....
